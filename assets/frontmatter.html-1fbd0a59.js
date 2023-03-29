@@ -1,0 +1,1 @@
+import{_ as t,p as e,q as o,R as r}from"./framework-5866ffd3.js";const n={},_=r("h1",null,"frontmatter",-1),c=[_];function s(a,l){return e(),o("div",null,c)}const m=t(n,[["render",s],["__file","frontmatter.html.vue"]]);export{m as default};
